@@ -1,5 +1,5 @@
 Hi there, I'm Varshitha 👋
-Welcome to my GitHub portfolio!. I enjoy working on projects related to [Technology/Industry], and I'm always eager to learn and collaborate.
+Welcome to my GitHub portfolio!. I enjoy working on projects related to technology, and I'm always eager to learn and collaborate.
 
 🔧 Skills & Technologies
 Here are some of the tools, technologies, and languages I specialize in:
