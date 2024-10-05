@@ -17,10 +17,16 @@ Welcome to my GitHub portfolio! I'm Varshitha, a passionate full-stack developer
 
 ## 📂 Projects
 
-### 1. [Expense Manager](https://github.com/vinod-pattar/expense-manager) 💰
-A simple web application to track personal expenses with features like category-wise reporting, multi-currency support, and more.
-- **Tech Stack**: Django, SQLite, Bootstrap, Chart.js
-- **Features**: User Authentication, Expense Categories, Visual Reports
+### 1.Reminder Application (No-Code Solution)
+
+Tools Used: Tally Forms, Google Sheets, Pabbly Connect
+
+Designed a no-code reminder application that automatically sent reminder emails before the date of the event by taking input via Tally Forms, managing the data via Google Sheets, and integrating and automating workflow using Pabbly Connect. So, here is a productive system that will help the user get timely email notifications for upcoming events.
+
+Form Creation Tally Forms were used to populate the user events with the respective details including name, date and email.
+Data Management Google Sheets provided an excel sheet where all of these event details have been stored.
+Automation Pabbly Connect: Connect was integrated with form submissions along with Google Sheets; hence, automated sending reminder emails based on the event dates as well.
+This has given me an opportunity to demonstrate my capability of building effective no-code solutions by leveraging automation tools in order to help smooth workflows and enhance user experience.
 
 ### 2. [Calendar Reminder Web App](https://github.com/vinod-pattar/calendar-reminder-app) 📅
 A calendar-based reminder application that sends notifications via email. It was created as an assignment for engineering students.
