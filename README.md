@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I'm Varshitha, a passionate full-stack developer
 
 ## 🛠️ Skills
 
-- **Languages**: Python, JavaScript, HTML, CSS
+- **Languages**: Python, HTML, CSS
 - **Frameworks/Libraries**: Django, ReactJS, Bootstrap
 - **Databases**: PostgreSQL, MySQL, SQLite
 - **Tools**: Git, Docker, VSCode, Postman, Jenkins
@@ -28,10 +28,15 @@ Data Management Google Sheets provided an excel sheet where all of these event d
 Automation Pabbly Connect: Connect was integrated with form submissions along with Google Sheets; hence, automated sending reminder emails based on the event dates as well.
 This has given me an opportunity to demonstrate my capability of building effective no-code solutions by leveraging automation tools in order to help smooth workflows and enhance user experience.
 
-### 2. [Calendar Reminder Web App](https://github.com/vinod-pattar/calendar-reminder-app) 📅
-A calendar-based reminder application that sends notifications via email. It was created as an assignment for engineering students.
-- **Tech Stack**: Django, PostgreSQL, ReactJS, Bootstrap
-- **Features**: Event Reminders, Notification System, Responsive Design
+### 2. Lead management System
+In this project, I developed a Lead Management System utilizing Airtable to streamline and organize lead data efficiently. The system enables businesses to track, manage, and nurture leads from initial contact through to conversion. Key features include:
+
+Lead Tracking: Easy-to-use interface to input and categorize leads based on their status (e.g., new, in-progress, converted).
+Automated Workflows: Custom Airtable automations to send notifications and reminders for follow-ups.
+Customizable Views: Ability to create different views (Kanban, Grid, Calendar) for better visualization of leads based on priority, deadline, or status.
+Collaboration: Multiple team members can collaborate in real time to update and monitor lead activity.
+Reporting and Analytics: Integrated reporting features to generate insights on lead conversion rates and pipeline progress.
+This project demonstrates my ability to leverage no-code tools to build scalable and functional business solutions quickly and efficiently.
 
 ### 3. [E-commerce Website](https://github.com/vinod-pattar/ecommerce-website) 🛒
 A full-stack Django project with complete e-commerce functionality such as product listings, shopping cart, and order checkout.
